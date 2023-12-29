@@ -9,7 +9,7 @@ from write_to_excel import excel_writer
 cooldown = 5
 
 # Load the model
-model = torch.hub.load('.', 'custom', path='runs/train/exp2/weights/last.pt', source='local')
+model = torch.hub.load('.', 'custom', path='LPDL_best.pt', source='local')
 
 # Open a connection to the webcam (0 corresponds to the default camera)
 cap = cv2.VideoCapture(0)
