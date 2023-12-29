@@ -1,7 +1,6 @@
 import cv2
 import torch
 import time
-
 from datetime import datetime
 from getNumber import licensePlate_to_number
 from write_to_excel import excel_writer

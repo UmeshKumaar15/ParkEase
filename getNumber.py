@@ -1,5 +1,4 @@
 import cv2
-import string
 import easyocr
 import pytesseract
 
