@@ -6,6 +6,7 @@
 
 ## Overview
 
+
 This project utilizes a customized YOLOv5 model for accurate license plate detection, integrated seamlessly with OCR (Optical Character Recognition) using pytesseract. The system is designed to efficiently extract license plate information and features an automated logging to an excel file.
 
 ## Features
