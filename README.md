@@ -23,10 +23,12 @@
   - **67.3% accuracy at mAP50:95**
 - The model detects license plates and forwards the detected frames for number extraction.
 
-![Detection Image](assets/model_result_img.jpg)
+
+<img src="assets/model_result_img.jpg" alt="Sample Image" width="600" height="400">
+
 
 - The UPI request:
-![UPI Image](assets/upi_image.jpeg)
+<img src="assets/upi_image.jpeg" alt="Sample Image" width="400" height="600">
 
 ## Installation
 
