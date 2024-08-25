@@ -26,7 +26,7 @@
 ![Detection Image](assets/model_result_img.jpg)
 
 - The UPI request:
-![UPI Image](assets/upi_image.jpg)
+![UPI Image](assets/upi_image.jpeg)
 
 ## Installation
 
